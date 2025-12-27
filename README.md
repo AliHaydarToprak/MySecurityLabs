@@ -2,7 +2,7 @@
 
 Merhabalar,
 
-Bu yazımda wazuh 'un resmi dökümanlarını referans alarak wazuh cluster yapsının nasıl kurulacağını anlatılacaktır.
+Bu yazı wazuh 'un resmi dökümanlarını referans alarak wazuh cluster yapsının nasıl kurulacağı anlatılacaktır.
 Kurulum için 4 adet ubuntu 24 sunucu kullanılacaktır.
 
 ## Sunucular ve Görevleri
